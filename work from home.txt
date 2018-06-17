@@ -1,0 +1,37 @@
+mstc type on search for (work from home)
+
+
+github.com
+
+username: rak452
+password: shanker81
+
+echo "# First_java_homework" >> README.md
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/rak452/First_java_homework.git
+git push -u origin master
+
+Steps:
+
+1. git init
+2. git status
+3. git add *
+4. git commit -m ( message) 
+5. git config --local user.email "softtest452@gmail.com"
+6. git config --local "rak452" "username"
+
+
+transfer file
+
+local
+
+stage
+
+commit
+
+github
+
